@@ -2,6 +2,8 @@
 #  About Me:
 I'm working on machine learning and deep learning, mainly interested in real-world applications where I can experiment with different models and ideas
 
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/krishna-ambekar-b4a2641b2)
 
