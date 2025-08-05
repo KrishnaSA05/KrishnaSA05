@@ -4,6 +4,7 @@ I'm working on machine learning and deep learning, mainly interested in real-wor
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) 
+
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,8 +17,7 @@ I'm working on machine learning and deep learning, mainly interested in real-wor
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=SciPy&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 
-
-
+## 📌 Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
