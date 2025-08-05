@@ -17,7 +17,7 @@ I'm working on machine learning and deep learning, mainly interested in real-wor
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=SciPy&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 
-## 📌 Quote:
+### 📌 Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
