@@ -3,7 +3,7 @@
 I'm working on machine learning and deep learning, mainly interested in real-world applications where I can experiment with different models and ideas
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/krishna-ambekar-b4a2641b2)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(www.linkedin.com/in/krishna-ambekar-b4a2641b2)
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
