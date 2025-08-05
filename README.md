@@ -1,5 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/KrishnaSA05/KrishnaSA05/main/auto_fahr.gif)](https://github.com/KrishnaSA05)
 
+<h1 align="center">Hi 👋, I'm Krishna Ambekar</h1>
+
 #  About Me:
 I believe that AI should make our world more understandable, predictable, and human-friendly. Whether it's training deep models or fusing sensor data, I'm always looking for creative ways to bring intelligent systems to life.
 
