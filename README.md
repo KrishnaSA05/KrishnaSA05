@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Krishna </h1>
 
-#  About Me:
+##  About Me:
 I believe that AI should make our world more understandable, predictable, and human-friendly. Whether it's training deep models or fusing sensor data, I'm always looking for creative ways to bring intelligent systems to life.
 
 ## 🌐 Socials:
