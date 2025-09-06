@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence| Machine Learning | Computer Vision | Deep Learning</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrishnaSA05/KrishnaSA05/main/coder.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/KrishnaSA05/KrishnaSA05/main/coder.gif" width="400" />
 </p>
 
 ##  About Me:
