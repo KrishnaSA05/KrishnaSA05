@@ -1,10 +1,9 @@
-##[![MasterHead](https://raw.githubusercontent.com/KrishnaSA05/KrishnaSA05/main/coder.gif)](https://github.com/KrishnaSA05)
+<h1 align="center">Hi 👋, I'm Krishna Ambekar</h1>
+<h3 align="center">Artificial Intelligence| Machine Learning | Computer Vision | Deep Learning</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrishnaSA05/KrishnaSA05/main/coder.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/KrishnaSA05/KrishnaSA05/main/coder.gif" width="500" />
 </p>
-
-<h1 align="left">Hi 👋, I'm Krishna </h1>
 
 ##  About Me:
 I believe that AI should make our world more understandable, predictable, and human-friendly. Whether it's training deep models or fusing sensor data, I'm always looking for creative ways to bring intelligent systems to life.
