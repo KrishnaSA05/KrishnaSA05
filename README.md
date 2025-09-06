@@ -1,4 +1,8 @@
-[![MasterHead](https://raw.githubusercontent.com/KrishnaSA05/KrishnaSA05/main/coder.gif)](https://github.com/KrishnaSA05)
+##[![MasterHead](https://raw.githubusercontent.com/KrishnaSA05/KrishnaSA05/main/coder.gif)](https://github.com/KrishnaSA05)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KrishnaSA05/KrishnaSA05/main/coder.gif" width="400" />
+</p>
 
 <h1 align="left">Hi 👋, I'm Krishna </h1>
 
