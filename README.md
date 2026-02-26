@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Ambekar</h1>
-<h3 align="center">Artificial Intelligence | Machine Learning | Computer Vision | Deep Learning</h3>
+<h3 align="center">Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KrishnaSA05/KrishnaSA05/main/coder.gif" width="400" />
@@ -27,6 +27,10 @@ I believe that AI should make our world more understandable, predictable, and hu
 ### 📌 Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KrishnaSA05&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KrishnaSA05&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSA05&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
