@@ -6,7 +6,13 @@
 </p>
 
 ##  About Me:
-I believe that AI should make our world more understandable, predictable, and human-friendly. Whether it's training deep models or fusing sensor data, I'm always looking for creative ways to bring intelligent systems to life.
+🔭 Currently exploring and building solutions in Machine Learning and Computer Vision.
+
+👯 I’m open to collaborating on AI/ML projects and research-driven ideas.
+
+🌱 I’m currently learning Machine Learning by building practical, hands-on projects.
+
+⚡ Fun fact: I love experimenting with models and turning ideas into working solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-ambekar-b4a2641b2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnaambekar07@gmail.com)
